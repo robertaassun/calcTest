@@ -1,0 +1,1 @@
+/home/pandora/IdeaProjects/calcTest/build/classes/kotlin/main/Calculadora/Calculadora.class:/home/pandora/IdeaProjects/calcTest/build/classes/kotlin/main/MainKt.class
